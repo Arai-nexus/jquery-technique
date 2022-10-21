@@ -1,0 +1,8 @@
+.toTop {
+    margin-top: 2000px;
+    display: inline-block;
+    background: #0bd;
+    padding: 15px;
+    color: #fff;
+    cursor: pointer;
+}
